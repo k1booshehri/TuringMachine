@@ -11,10 +11,10 @@ The final state code is 1^{(number of states)}1
 Consider the blank character code in bar 1.
 It is guaranteed that an infinite loop does not occur in a given Turing machine.
 <br />
-### Example
+### Example:
 <br />
 
-##### Sample entry 1
+##### Sample input 1
 
 <br />
 101101011011001010110101
