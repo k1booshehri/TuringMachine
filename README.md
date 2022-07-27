@@ -13,7 +13,9 @@ It is guaranteed that an infinite loop does not occur in a given Turing machine.
 <br />
 ### Example
 <br />
+
 ##### Sample entry 1
+
 <br />
 101101011011001010110101
 <br />
@@ -23,7 +25,10 @@ It is guaranteed that an infinite loop does not occur in a given Turing machine.
 <br />
 110111011
 <br />
+
 ##### Sample output 1
+
+<br />
 Accepted
 <br />
 Accepted
